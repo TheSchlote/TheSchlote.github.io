@@ -11,7 +11,7 @@ This blog is my way to stay consistent, track milestones, and hopefully make ste
 - **Game Dev Logs:** Progress updates on various side projects as I build skills and work toward publishing an RPG based on my original *Corrupted Virtues* concept.  
 - **Game Jams:** I'll share experiences from participating in game jams, and everything I learn along the way.  
 - **Helpful Resources:** Tools, tutorials, and references that I’ve found valuable.  
-- **Daily Progress:** I plan to post daily, even if it’s something small, if you don't see any updates from me check up on me!
+- **Daily Progress:** I plan to post every week, even if it’s something small, if you don't see any updates from me check up on me!
 
 ### Why Moral Support Studios?  
 Moral Support Studios is my creative outlet and a personal goal. I want to build something meaningful, and do it with my family and friends
