@@ -1,19 +1,37 @@
-# Welcome to Moral Support Studios Blog!  
+# TheSchlote’s Blog
 
-Hey there! I'm **TheSchlote** – Husband, Father, devoted Catholic, and a full-time .NET developer. I've got alot going on, but I'm passionate about bringing **Moral Support Studios** to life in the free time that I have!  
+I’m TheSchlote – husband, father, Catholic, and a full-time .NET developer. Between work, family, and everything else, I’m carving out time to chase two projects that matter a lot to me: a solo game I’ve been building in my head for years, and a software business I’m launching with a close friend.
 
-### Why I Made This Blog  
-I'm hoping to share what I’m learning, document progress, and stay accountable along the way! My main project right now is **Corrupted Virtues**, an original fantasy concept I’ve been working on for years. I think it's really cool, and I hope you will too! 
+Keeping this blog helps me stay consistent, even if the steps are small. The plan is to make something meaningful over time—one week at a time.
 
-This blog is my way to stay consistent, track milestones, and hopefully make steady progress toward my dream of making Moral Support Studios a reality.  
+## The Two Projects
 
-### What You’ll Find Here  
-- **Game Dev Logs:** Progress updates on various side projects as I build skills and work toward publishing an RPG based on my original *Corrupted Virtues* concept.  
-- **Game Jams:** I'll share experiences from participating in game jams, and everything I learn along the way.  
-- **Helpful Resources:** Tools, tutorials, and references that I’ve found valuable.  
-- **Weekly Progress:** I plan to post every week, even if it’s something small, if you don't see any updates feel free to check up on me!
+1. **Corrupted Virtues** – My solo game dev project. A turn-based tactics RPG I’ve been working on for a long time.  
+2. **Moral Support Studios** – The software company I’m building with my friend, **Nubchulubs12**, where we’re developing web-based apps for small businesses.
 
-### Why Moral Support Studios?  
-Moral Support Studios is my creative outlet and a personal goal. I want to build something meaningful, and do it with my family and friends
+The goal is to make steady progress every week, whether it’s a breakthrough or just moving one thing forward.
 
-Thanks for checking this out, you are supporting me by even just looking at this!
+## What I’m Logging Here
+
+- **Corrupted Virtues Dev Logs** – Notes on development, mechanics, and worldbuilding.  
+- **Game Jams** – Lessons from participating in jams.  
+- **Moral Support Studios Updates** – Business and software development progress.  
+- **Resources** – Anything useful worth remembering.  
+- **Weekly Progress** – One post a week, depending on what I got done. If there's nothing to write about, that’s a sign I need to get back to work.
+
+## What is Moral Support Studios?
+
+*Moral Support Studios* is the business my friend and I are building to create **useful software for small businesses**. Our long-term goal is to develop the **Moral Support Suite**, an ERP-style system where small businesses can mix and match the tools they need to run their operations.
+
+The suite will eventually include:
+- Task Management  
+- Expense Tracking  
+- Finance Management  
+- Customer Management  
+- Other core business functions  
+
+Everything will be **fully web-based**, with no installs or outdated software. Just tools that work and scale with the user.
+
+We're starting with a **task management app** as an intro project. Eventually, we also want to take on small development projects for other businesses who need custom software.
+
+For me, this is about building something real with the skills I already have, leveling up as a developer, and helping others do the same.
