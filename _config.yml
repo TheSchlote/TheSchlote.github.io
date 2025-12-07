@@ -21,6 +21,7 @@ github_username: "TheSchlote"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+lang: "en"
 
 rss: rss
 

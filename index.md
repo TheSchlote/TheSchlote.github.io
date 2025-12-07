@@ -1,42 +1,38 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
 # TheSchlote's Blog
 
-I'm TheSchlote - husband, father, Catholic, and a full-time .NET developer. Between work, family, and everything else, I'm carving out time to chase two projects that matter a lot to me: a solo game I've been building in my head for years, and a software business I'm launching with a close friend.
+<div class="home-hero">
+  <p class="subtitle">Husband, dad, Roman Catholic, .NET dev, and lifelong gamer. This space keeps me honest as I grow in faith, family, craft, and the creative work I love.</p>
+  <div class="pill-row">
+    <span class="pill">Faith-driven goals</span>
+    <span class="pill">Personal + professional growth</span>
+    <span class="pill">Indie game dev</span>
+    <span class="pill">Twitch streams</span>
+    <span class="pill">D&D campaign notes</span>
+  </div>
+</div>
 
-Keeping this blog helps me stay consistent, even if the steps are small. The plan is to make something meaningful over time-one week at a time.
+Keeping this blog forces me to move forward a week at a time - whether it's shipping code, building Moral Support Studios, deepening my Catholic faith, or telling better stories at the tabletop.
 
-## The Two Projects
+## What you'll see here
 
-1. **Corrupted Virtues** - My solo game dev project. A turn-based tactics RPG I've been working on for a long time.  
-2. **Moral Support Studios** - The software company I'm building with my friend, **Nubchulubs12**, where we're developing web-based apps for small businesses.
+- **Dev logs and architecture notes** for *Corrupted Virtues* and the Moral Support Suite.
+- **Professional growth** from my day-to-day as a .NET developer and business co-founder.
+- **Faith reflections** on how Catholic teaching shapes my work, priorities, and decision-making.
+- **Twitch updates** when I stream builds, playtests, or just hang out: [twitch.tv/TheSchlote](https://www.twitch.tv/theschlote).
+- **Dungeon Master prep** for the D&D campaigns I'm running, plus lessons learned from the table.
 
-The goal is to make steady progress every week, whether it's a breakthrough or just moving one thing forward.
+## The two big builds
 
-## What I'm Logging Here
+1. **Corrupted Virtues** - a turn-based tactics RPG I'm rebuilding with more intention and testing discipline.  
+2. **Moral Support Studios** - a web-based tools company I'm building with my friend **Nubchulubs12**, starting with a task app and growing into a suite for small businesses.
 
-- **Corrupted Virtues Dev Logs** - Notes on development, mechanics, and worldbuilding.  
-- **Game Jams** - Lessons from participating in jams.  
-- **Moral Support Studios Updates** - Business and software development progress.  
-- **Resources** - Anything useful worth remembering.  
-- **Weekly Progress** - One post a week, depending on what I got done. If there's nothing to write about, that's a sign I need to get back to work.
+## Why I'm writing
 
-## What is Moral Support Studios-
-
-*Moral Support Studios* is the business my friend and I are building to create **useful software for small businesses**. Our long-term goal is to develop the **Moral Support Suite**, an ERP-style system where small businesses can mix and match the tools they need to run their operations.
-
-The suite will eventually include:
-- Task Management  
-- Expense Tracking  
-- Finance Management  
-- Customer Management  
-- Other core business functions  
-
-Everything will be **fully web-based**, with no installs or outdated software. Just tools that work and scale with the user.
-
-We're starting with a **task management app** as an intro project. Eventually, we also want to take on small development projects for other businesses who need custom software.
-
-For me, this is about building something real with the skills I already have, leveling up as a developer, and helping others do the same.
+- To stay accountable to steady, meaningful progress - personally and professionally.
+- To share how faith, family, and craft fit together when time is tight.
+- To leave a record of the wins, the stalled weeks, and the pivots that actually worked.
